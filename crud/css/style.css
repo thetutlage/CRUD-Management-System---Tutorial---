@@ -1,0 +1,57 @@
+.navbar-inner{
+	border-radius: 0px;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+}
+.right{
+	float: right;
+}
+h2.left{
+	float: left;
+}
+.clear{
+	clear: both;
+}
+.form_elements{
+	margin-bottom: 20px;
+}
+.alert h3{
+	font-size: 13px;
+	margin-bottom: 20px;
+}
+.help-block{
+	color: red;
+}
+.dataTables_info{
+	float: left;
+}
+.dataTables_length{
+	float: right;
+	margin-right: 35px;
+}
+.dataTables_length label{
+	font-size: 0;
+}
+.dataTables_length label,.dataTables_length select{
+	display: inline;
+}
+.dataTables_paginate{
+	float: right;	
+}
+.dataTables_paginate a{
+	margin-left: 20px;
+	cursor: pointer;
+  display: inline-block;
+  padding: 5px 14px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  -webkit-border-radius: 15px;
+	 -moz-border-radius: 15px;
+		  border-radius: 15px;
+
+}
+.dataTables_paginate a:hover {
+  text-decoration: none;
+  background-color: #f5f5f5;
+}
+.table {width:100%;}
